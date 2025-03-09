@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3caffadd-5d8d-4484-ae8a-6a96f1ff1914" name="Changes" comment="showOffice and showPumps finished">
+      <change beforePath="$PROJECT_DIR$/Aufgabe7/Office.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe7/Office.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe7/OfficeOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe7/OfficeOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe7/Pump.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe7/Pump.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="yoana" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Aufgabe1-3/Aufgabe2/Simulation.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nkDlXx3OedH9IKnMDBYiksyJMZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Ivaylo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ивайло/Desktop/ppB10/Aufgabe6&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ивайло\Desktop\ppB10\Aufgabe6" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3caffadd-5d8d-4484-ae8a-6a96f1ff1914" name="Changes" comment="" />
+      <created>1729508331869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729508331869</updated>
+    </task>
+    <task id="LOCAL-00055" summary="making Test">
+      <option name="closed" value="true" />
+      <created>1732749015442</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1732749015443</updated>
+    </task>
+    <task id="LOCAL-00056" summary="making AdminSet">
+      <option name="closed" value="true" />
+      <created>1732806890173</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1732806890174</updated>
+    </task>
+    <task id="LOCAL-00057" summary="aAdminSet almost ready">
+      <option name="closed" value="true" />
+      <created>1732813627520</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1732813627520</updated>
+    </task>
+    <task id="LOCAL-00058" summary="my part is done, remaining Test">
+      <option name="closed" value="true" />
+      <created>1732816109141</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1732816109141</updated>
+    </task>
+    <task id="LOCAL-00059" summary="my part is done, remaining Test">
+      <option name="closed" value="true" />
+      <created>1732816202441</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1732816202441</updated>
+    </task>
+    <task id="LOCAL-00060" summary="my part is done 2, remaining Test">
+      <option name="closed" value="true" />
+      <created>1732836089654</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1732836089654</updated>
+    </task>
+    <task id="LOCAL-00061" summary="my part is done 2, remaining Test">
+      <option name="closed" value="true" />
+      <created>1733004365007</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1733004365007</updated>
+    </task>
+    <task id="LOCAL-00062" summary="approving counters and rcounters">
+      <option name="closed" value="true" />
+      <created>1733073888641</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1733073888641</updated>
+    </task>
+    <task id="LOCAL-00063" summary="setting a checkpoint">
+      <option name="closed" value="true" />
+      <created>1733076766983</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1733076766983</updated>
+    </task>
+    <task id="LOCAL-00064" summary="adminSets and apSets filled">
+      <option name="closed" value="true" />
+      <created>1733080046183</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1733080046183</updated>
+    </task>
+    <task id="LOCAL-00065" summary="adminSets and apSets filled">
+      <option name="closed" value="true" />
+      <created>1733080758135</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1733080758136</updated>
+    </task>
+    <task id="LOCAL-00066" summary="first made tests">
+      <option name="closed" value="true" />
+      <created>1733083510643</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1733083510644</updated>
+    </task>
+    <task id="LOCAL-00067" summary="almost done">
+      <option name="closed" value="true" />
+      <created>1733090147444</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1733090147445</updated>
+    </task>
+    <task id="LOCAL-00068" summary="almost done">
+      <option name="closed" value="true" />
+      <created>1733097681506</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1733097681507</updated>
+    </task>
+    <task id="LOCAL-00069" summary="done">
+      <option name="closed" value="true" />
+      <created>1733098752364</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1733098752365</updated>
+    </task>
+    <task id="LOCAL-00070" summary="done">
+      <option name="closed" value="true" />
+      <created>1733098994013</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1733098994013</updated>
+    </task>
+    <task id="LOCAL-00071" summary="done">
+      <option name="closed" value="true" />
+      <created>1733099076492</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1733099076492</updated>
+    </task>
+    <task id="LOCAL-00072" summary="done">
+      <option name="closed" value="true" />
+      <created>1733259875498</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1733259875498</updated>
+    </task>
+    <task id="LOCAL-00073" summary="done">
+      <option name="closed" value="true" />
+      <created>1733259958997</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1733259958997</updated>
+    </task>
+    <task id="LOCAL-00074" summary="removing one remove">
+      <option name="closed" value="true" />
+      <created>1733260663166</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1733260663166</updated>
+    </task>
+    <task id="LOCAL-00075" summary="removing one remove">
+      <option name="closed" value="true" />
+      <created>1733260728433</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1733260728433</updated>
+    </task>
+    <task id="LOCAL-00076" summary="done">
+      <option name="closed" value="true" />
+      <created>1733262814820</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1733262814820</updated>
+    </task>
+    <task id="LOCAL-00077" summary="done">
+      <option name="closed" value="true" />
+      <created>1733263009490</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1733263009490</updated>
+    </task>
+    <task id="LOCAL-00078" summary="(simo) napraih list i listGen">
+      <option name="closed" value="true" />
+      <created>1733414384878</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1733414384879</updated>
+    </task>
+    <task id="LOCAL-00079" summary="(simo) napraih list i listGen">
+      <option name="closed" value="true" />
+      <created>1733414527360</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1733414527360</updated>
+    </task>
+    <task id="LOCAL-00080" summary="suzdavane na building i buildingGen(do nikude ne sa hahahaha)">
+      <option name="closed" value="true" />
+      <created>1733416546317</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1733416546317</updated>
+    </task>
+    <task id="LOCAL-00081" summary="suzdavane na building i buildingGen(do nikude ne sa hahahaha)">
+      <option name="closed" value="true" />
+      <created>1733518855008</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1733518855008</updated>
+    </task>
+    <task id="LOCAL-00082" summary="making singlilinkedlist">
+      <option name="closed" value="true" />
+      <created>1733582457383</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1733582457383</updated>
+    </task>
+    <task id="LOCAL-00083" summary="making singlilinkedlist">
+      <option name="closed" value="true" />
+      <created>1733582507748</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1733582507748</updated>
+    </task>
+    <task id="LOCAL-00084" summary="experiment">
+      <option name="closed" value="true" />
+      <created>1733583014881</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1733583014881</updated>
+    </task>
+    <task id="LOCAL-00085" summary="making BuildingGen">
+      <option name="closed" value="true" />
+      <created>1733584717895</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1733584717895</updated>
+    </task>
+    <task id="LOCAL-00086" summary="making CompanyGen">
+      <option name="closed" value="true" />
+      <created>1733585387290</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1733585387290</updated>
+    </task>
+    <task id="LOCAL-00087" summary="declarin test">
+      <option name="closed" value="true" />
+      <created>1733585635895</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1733585635895</updated>
+    </task>
+    <task id="LOCAL-00088" summary="removing unimportand good and bad comments in ab3">
+      <option name="closed" value="true" />
+      <created>1733586108595</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1733586108595</updated>
+    </task>
+    <task id="LOCAL-00089" summary="removing unimportand good and bad comments in ab3">
+      <option name="closed" value="true" />
+      <created>1733679362068</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1733679362068</updated>
+    </task>
+    <task id="LOCAL-00090" summary="adding name into building and buildinggen">
+      <option name="closed" value="true" />
+      <created>1733679429516</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1733679429516</updated>
+    </task>
+    <task id="LOCAL-00091" summary="toString of offices, NOT TO FORGET to make assertions of to Strings">
+      <option name="closed" value="true" />
+      <created>1733682982773</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1733682982773</updated>
+    </task>
+    <task id="LOCAL-00092" summary="making the objects in test check">
+      <option name="closed" value="true" />
+      <created>1733687377351</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1733687377351</updated>
+    </task>
+    <task id="LOCAL-00093" summary="almost ready with the 3 point">
+      <option name="closed" value="true" />
+      <created>1733700292060</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1733700292060</updated>
+    </task>
+    <task id="LOCAL-00094" summary="my part of test is ready, only printing statitics is remaining">
+      <option name="closed" value="true" />
+      <created>1733706097027</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1733706097027</updated>
+    </task>
+    <task id="LOCAL-00095" summary="my part of test is ready, only printing statitics is remaining">
+      <option name="closed" value="true" />
+      <created>1733706465305</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1733706465305</updated>
+    </task>
+    <task id="LOCAL-00096" summary="my part of test is ready, only printing statitics is remaining">
+      <option name="closed" value="true" />
+      <created>1733706574285</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1733706574285</updated>
+    </task>
+    <task id="LOCAL-00097" summary="almost missed the 0 divison tester but it is added">
+      <option name="closed" value="true" />
+      <created>1733707988026</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1733707988027</updated>
+    </task>
+    <task id="LOCAL-00098" summary="maybe it is ok">
+      <option name="closed" value="true" />
+      <created>1734111659069</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1734111659070</updated>
+    </task>
+    <task id="LOCAL-00099" summary="have to change element and visitormethods">
+      <option name="closed" value="true" />
+      <created>1734169966184</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1734169966184</updated>
+    </task>
+    <task id="LOCAL-00100" summary="have to change element and visitormethods">
+      <option name="closed" value="true" />
+      <created>1734172234592</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1734172234592</updated>
+    </task>
+    <task id="LOCAL-00101" summary="doing smth">
+      <option name="closed" value="true" />
+      <created>1734193359259</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1734193359259</updated>
+    </task>
+    <task id="LOCAL-00102" summary="showOffice and showPumps finished">
+      <option name="closed" value="true" />
+      <created>1734195734274</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1734195734274</updated>
+    </task>
+    <task id="LOCAL-00103" summary="showOffice and showPumps finished">
+      <option name="closed" value="true" />
+      <created>1734267007345</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1734267007345</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="approving counters and rcounters" />
+    <MESSAGE value="setting a checkpoint" />
+    <MESSAGE value="adminSets and apSets filled" />
+    <MESSAGE value="first made tests" />
+    <MESSAGE value="almost done" />
+    <MESSAGE value="removing one remove" />
+    <MESSAGE value="done" />
+    <MESSAGE value="(simo) napraih list i listGen" />
+    <MESSAGE value="suzdavane na building i buildingGen(do nikude ne sa hahahaha)" />
+    <MESSAGE value="making singlilinkedlist" />
+    <MESSAGE value="experiment" />
+    <MESSAGE value="making BuildingGen" />
+    <MESSAGE value="making CompanyGen" />
+    <MESSAGE value="declarin test" />
+    <MESSAGE value="removing unimportand good and bad comments in ab3" />
+    <MESSAGE value="adding name into building and buildinggen" />
+    <MESSAGE value="toString of offices, NOT TO FORGET to make assertions of to Strings" />
+    <MESSAGE value="making the objects in test check" />
+    <MESSAGE value="almost ready with the 3 point" />
+    <MESSAGE value="my part of test is ready, only printing statitics is remaining" />
+    <MESSAGE value="almost missed the 0 divison tester but it is added" />
+    <MESSAGE value="maybe it is ok" />
+    <MESSAGE value="have to change element and visitormethods" />
+    <MESSAGE value="doing smth" />
+    <MESSAGE value="showOffice and showPumps finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="showOffice and showPumps finished" />
+  </component>
+</project>
